@@ -1,0 +1,17 @@
+{
+  "name": "shim-keyboard-event-key",
+  "version": "1.0.0",
+  "description": "KeyboardEvent#key shim for IE and Edge",
+  "keywords": [
+    "keyboard",
+    "event",
+    "key",
+    "shim",
+    "ie",
+    "edge"
+  ],
+  "bugs": "https://github.com/shvaikalesh/shim-keyboard-event-key/issues",
+  "license": "MIT",
+  "author": "Aleksey Shvayka <shvaikalesh@gmail.com>",
+  "repository": "shvaikalesh/shim-keyboard-event-key"
+}
