@@ -11,7 +11,7 @@ Tiny `KeyboardEvent#key` shim for IE and MS Edge.
 
 Get the package from [npm](https://www.npmjs.com/package/shim-keyboard-event-key):
 
-```
+```sh
 npm install shim-keyboard-event-key --save
 ```
 
