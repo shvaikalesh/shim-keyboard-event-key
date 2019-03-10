@@ -1,6 +1,6 @@
 {
   "name": "shim-keyboard-event-key",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Tiny KeyboardEvent#key shim for IE and MS Edge",
   "keywords": [
     "keyboard-event",

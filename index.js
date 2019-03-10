@@ -1,9 +1,7 @@
 (function() {
   "use strict"
-  if(!("document" in self)) {
-    // Inside web worker
-    return
-  }
+
+  if (!self.document) return
 
   var event = KeyboardEvent.prototype
   var desc = Object.getOwnPropertyDescriptor(event, "key")
