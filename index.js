@@ -1,7 +1,7 @@
 (function() {
   "use strict"
 
-  if (!self.document) return
+  if (typeof self === "undefined" || !self.document) return
 
   var event = KeyboardEvent.prototype
   var desc = Object.getOwnPropertyDescriptor(event, "key")
